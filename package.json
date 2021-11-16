@@ -5,7 +5,7 @@
         "serverless-offline": "^5.12.1"
     },
     "dependencies": {
-        "aws-sdk": "^2.639.0"
+        "aws-sdk": "^2.814.0"
     },
     "scripts": {
         "test": "serverless-bundle test"
